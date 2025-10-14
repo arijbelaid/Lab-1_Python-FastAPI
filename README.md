@@ -9,9 +9,11 @@ Ce projet est une API REST simple développée avec FastAPI, conçue pour gérer
 - Facile à apprendre et à utiliser
 - Développement rapide grâce à une syntaxe intuitive
 - Haute performance avec le support natif de l’asynchrone
+- 
 ⚙️ Installation et démarrage
 
 L’application utilise FastAPI pour créer l’API et Uvicorn comme serveur pour l’exécuter. Une fois installée, elle peut être lancée localement et testée via un navigateur ou des outils comme curl.
+
 📌 Fonctionnalités
 
 - Création de routes HTTP pour gérer les tâches (ajout, consultation, liste)
